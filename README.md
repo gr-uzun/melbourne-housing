@@ -4,11 +4,10 @@ Housing Price Predictions with Melbourne Housing Dataset
 > References :
 >> Global AI Hub
 
-**Dataset:** https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market
-
 ![image](https://github.com/gr-uzun/melbourne-housing/assets/48177109/8eedc0e3-ed18-4a8d-824e-fad69e8ee0ea)
 
 **Project Overview**
+
 Do you want to solve one or more problems using Machine Learning methods in one
 project? A project is waiting for you where you will evaluate the results you have obtained
 using traditional Machine Learning methods. You need to solve the problems in the project
@@ -17,9 +16,12 @@ learn the methods of examining the data, preparing the data for the model, and e
 data analysis. You should have a project like this in your portfolio!
 
 **Dataset**
+
 Melbourne is the capital and largest city of the Australian state of Victoria, and the
 second-most populous city in both Australia and Oceania. The dataset contains several
 attributes of the houses in Melbourne along with their prices.
+
+https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market
 
 The variables in the data set:
 
