@@ -52,12 +52,14 @@ development site; o res - other residential.
 **Steps of the Project**
 
 1. **Creating a Google Colaboratory File**
+   
   - Make sure your project has .ipynb extension.
   - Make sure that there are comment lines explaining the details in your project.
   - When submitting the project, submit the cells of this .ipynb file so that the cells are
 run and the results are visible.
 
 2. **Importing Required Libraries**
+   
   - Import the required libraries for the project to the Colab environment.
   - Import NumPy, Pandas, Seaborn, and Matplotlib libraries for data analysis
   - Import sklearn.model_selection, sklearn.metrics, sklearn.ensemble,
@@ -65,6 +67,7 @@ sklearn.linear_model, sklearn_tree, sklearn.neighbour libraries and modules for
 modellling and evaluating performance of the model
 
 3. **Project Definition**
+   
 For this project, we need to load the Melbourne Housing dataset into our project. The
 quality and amount of data we collect will determine how good our predictive model
 can be. For this reason, we need to examine the dataset very carefully. We will
@@ -74,6 +77,7 @@ using preprocessing techniques. We will then build our models and measure their
 performance to complete the project.
 
 4. **Gathering and Observing Data**
+   
   - Load the dataset to the project with the help of read_csv() and observe the first 5
 columns
   - Find the shape, number of columns and size of the dataset
@@ -82,6 +86,7 @@ labels, column data types, memory usage, range index, and the number of cells in
 each column (non-null values).
 
 5. **Exploratory Data Analysis**
+   
   - Examine the descriptive statistics of dataset
   - The values of some variables are given as objects. At the same time, we observe
 that there are also categorical values. This might give us trouble when examining the
@@ -110,6 +115,7 @@ the price variable.
     - Implement Label Encoder and One Hot encoder for categorical variables
 
 6. **Model Selection**
+   
   - Since we are going to make a price estimation, we need to determine our x and y
 variables correctly.
   - Splitting our data into train-test in order to increase the performance of model training
@@ -150,6 +156,7 @@ variables correctly.
 >>},
 
 7. **Model Evaluation**
+   
   - Comparing models in each other
   - Choose the best performing model by using evaluation metrics(MAE, MSE, RMSE,
 R2)
@@ -161,6 +168,7 @@ R2)
   - R2: 0.49244357398844063
 
 8. **Project Delivery**
+   
   - For the project, you need to prepare a code file with the extension of .ipynb and run
 all the cells.
   - You need to add these files that you have prepared to a GitHub repo and add the link
