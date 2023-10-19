@@ -4,7 +4,7 @@ Housing Price Predictions with Melbourne Housing Dataset
 > References :
 >> Global AI Hub
 
-![image](https://github.com/gr-uzun/melbourne-housing/assets/48177109/8eedc0e3-ed18-4a8d-824e-fad69e8ee0ea)
+![image](https://github.com/gr-uzun/melbourne-housing/blob/main/image/melbourne-housing.jpeg)
 
 **Project Overview**
 
